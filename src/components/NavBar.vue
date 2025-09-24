@@ -9,7 +9,7 @@ const isLoggedIn =true
     <v-btn  to="/">Home</v-btn>
     <v-btn to="/menu">Menu</v-btn>
     <v-btn to="/contactus">ContactUs</v-btn>
-    <v-btn to="/reservations">Reservations</v-btn>
+    <v-btn to="/reservation">Reservation</v-btn>
     <v-btn to="/signup">SignUp</v-btn>
     <v-btn to="/orders" v-if="isLoggedIn">My orders</v-btn>
 
