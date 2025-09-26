@@ -1,0 +1,59 @@
+
+const menu={
+    0:{
+        name: 'fries',
+        image:"/images/menu/robby-mccullough-HNObIv6zmN0-unsplash.jpg",
+        price: 950,
+        description: ' Ultra-thin and crispy.',
+        category: 'Main course',
+    },
+     1:{
+        name: 'Crispy fried chicken',
+        image:"/images/menu/lilas-yohane-14jmOnCcZkU-unsplash.jpg",
+        price: 950,
+        description: 'Golden Brown-perfectly seasoned chicken pieces fried to  a crispy finish',
+        category: 'Main course',
+    },
+     2:{
+        name: 'classic beef burger',
+        image:"/images/menu/close-up-delicious-burger-meal.jpg",
+        price: 500,
+        description: 'juicy grilled beef patty stacked with fresh lettuce, tomato, onions, and pickles, all tucked into a toasted bun',
+        category: 'Main course',
+    },
+     3:{
+        name: 'Mojito',
+        image:"/images/menu/whitney-wright-TgQkxQc-t_U-unsplash.jpg",
+        price: 1500,
+        description: 'A refreshing blend of white rum, fresh mint leaves, lime juice, sugar, and soda water. Light, crisp, and perfect for warm evenings',
+        category: 'Cocktails',
+    },
+     4:{
+        name: 'Loaded Nachos',
+        image:"/images/menu/coffeefy-workafe-Y0zbn9lPCEU-unsplash.jpg",
+        price: 2000,
+        description: 'Crispy tortilla chips piled high with melted cheese, jalapeños, black beans, and fresh salsa. Topped with sour cream and guacamole for the perfect shareable snack',
+        category: 'Appetizers',
+    },
+     5:{
+        name: 'Margherita Pizza',
+        image:"/images/menu/alan-hardman-SU1LFoeEUkk-unsplash.jpg",
+        price: 700,
+        description: 'A timeless classic topped with fresh mozzarella, ripe tomatoes, and fragrant basil leaves on a hand-tossed crust. Finished with a drizzle of olive oil for that authentic Italian touch',
+        category: 'Main course',
+    },
+     6:{
+        name: 'Grilled Chicken Sandwich',
+        image:"/images/menu/mae-mu-IZ0LRt1khgM-unsplash.jpg",
+        price: 300,
+        description: 'Tender grilled chicken breast layered with crisp lettuce, juicy tomato slices, and creamy mayo, all nestled between toasted sandwich bread. A satisfying bite with every crunch',
+        category: 'Main course',
+    },
+     7:{
+        name: 'hotdog',
+        image:"/images/menu/ball-park-brand-4PWmqIUlGFQ-unsplash.jpg",
+        price: 500,
+        description: 'topped with ketchup, mustard, and diced onions. Simple, satisfying, and perfect for any time of day',
+        category: 'Main course',
+     }
+    }
